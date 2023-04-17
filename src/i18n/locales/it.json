@@ -1,0 +1,22 @@
+{
+    "locale": {
+        "es": "Spagnolo",
+        "en": "Inglese",
+        "pt": "Portoghese",
+        "it": "Italiano",
+        "fr": "Francese"
+    },
+    "nav": {
+      "home": "Iniziale",
+      "about": "Informazioni"
+    },
+    "home": {
+      "header": "Benvenuti al tutorial su Vue 3 I18n!",
+      "created_by": "Questo tutorial è stato realizzato da {name}.",
+      "num_visits": "Questa pagina non è stata visitata :( | Questa pagina è stata visitata {n} volta | Questa pagina è stata visitata {n} volte"
+    },
+    "about": {
+      "header": "Informazioni su di noi",
+      "donations": "Donazioni raccolte: {donations}"
+    }
+  }

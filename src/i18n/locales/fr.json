@@ -1,0 +1,22 @@
+{
+    "locale": {
+        "es": "Espagnol",
+        "en": "Anglais",
+        "pt": "Portugais",
+        "it": "Italien",
+        "fr": "Français"
+    },
+    "nav": {
+      "home": "Accueil",
+      "about": "À propos"
+    },
+    "home": {
+      "header": "Bienvenue au tutoriel su Vue 3 I18n!",
+      "created_by": "Ce tutoriel a été développé pour vous par {name}.",
+      "num_visits": "Cette page n'a pas été visitée :( | Cette page a été visitée {n} fois | Cette page a été visitée {n} fois"
+    },
+    "about": {
+      "header": "A propos de nous",
+      "donations": "Dons collectés: {donations}"
+    }
+  }
